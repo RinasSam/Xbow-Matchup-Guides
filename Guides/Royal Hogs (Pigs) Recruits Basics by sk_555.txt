@@ -1,0 +1,12 @@
+Royal Recruits Royal Hogs Basics
+This matchup became a bad matchup for Xbow after the Xbow rework in my opinion (60-40 for them), but with flawless defense, you can win against a bad player. That being said, you have to defend almost perfectly for the entire game, and even one minor mistake could end up costing you the entire game. It's for this reason that this is one of the rather difficult matchups to play as Xbow.
+
+Gameplan + Defensive Strategies
+- Defend for most of the game. It's not really worth it going with an offensive Xbow most of the time, since the opponent can get free Recruits and get a counterpush from it. One of the safest plays is pre-planting a Tesla in the middle (3 tiles down), since you aren't committing anything that can be punished, and most of what the opponent plays will go into your Tesla.
+- Stacking your Archers in the same lane is very effective, since the opponent usually has to Fireball them to take them out. I like to do this to force Fireballs out, especially on my stronger HP tower. You can also cycle them early when the opponent is making a push to get back to a second pair.
+- For Fireballs, usually try to hit Flying Machine or Royal Hogs + Recruits clumped next to your Tesla.
+
+Log Usage
+- Primarily, you want to be Logging the Royal Recruits while clipping as much support as possible. This will usually include Zappies or Royal Hogs (if you can clip them right as they play them).
+- It's also important to track the opponent's cycle and try to hit the Heal/Electro Spirit with your Log to prevent value.
+- Save Log for these two use cases. Cycling Log for tower damage is usually not the worst but you can get better results by logging the recruits and the tower. 

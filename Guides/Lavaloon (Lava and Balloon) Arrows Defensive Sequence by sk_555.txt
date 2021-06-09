@@ -1,0 +1,11 @@
+Defensive Sequence
+1) Archers first at the bottom corner, same lane as the Lavahound, if possible, then Knight.
+2) After they Balloon behind the Lavahound, wait for the Lavahound to target your tower and Tesla low (4+ Tiles down, sometimes 5) so that the Balloon gets pulled over and the Tesla targets the Balloon first. You will need to Fireball it back to keep the Tesla alive, since the Tesla will also need to take out the Lavahound and Pups afterwards.
+3) Skeletons on the Miner after they play it on your tower (if they wait and don't play Miner at all hold Skeletons until they do). Don't try to catch the Miner with the Skeletons; wait until it locks on to your tower, then play them. This way, your Skeletons stay alive and take the Miner out, as opposed to dying and barely doing anything to the Miner while the Lavahound tanks for it the entire time. This is an example of utilizing tower HP as a resource, but really, the concept at play here is maximizing the value of your cards.
+4) Also use your Ice Spirit at some point in the defense. That way, you will have cycled back to a new pair of Archers, and you can use them (at range from the Death Bomb so that they stay alive).
+5) You will have cycled back to a Knight at this point. You can use it to kite their support opposite lane if necessary, or just after the Lavahound pops to tank for all the pups. If they Zap your Skeletons on the Miner (which is a 5 for 1 trade, by the way), you can Knight on the Miner at a time relative to the Lavahound's death, so that by the time it pops, the Knight will have walked further in front and protect your Princess Tower from some of the Lava Pups.
+6) Use your intuition if they play different cards in the push, such as Skeleton Dragons + Zap instead of Balloon.
+
+Sequential Elixir Expenditure
+Lavahound + Balloon + Arrows + Miner: 7 + 12 + 3 + 3 = 25 elixir
+Archers + Knight + Tesla + Skeletons + Ice Spirit + Fireball + Archers: 3 + 3 + 4 + 1 + 1 + 4 + 3 = 19 elixir

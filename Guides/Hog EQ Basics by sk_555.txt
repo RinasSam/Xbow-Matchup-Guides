@@ -1,0 +1,7 @@
+Hog EQ Basics
+- You need to have the Anti-EQ high Tesla placement perfectly down in your muscle memory. Sometimes, they will outcycle your Tesla by one card, and you need to get back to it after cycling one card. In this situation, if you misplace the Tesla, you will lose.
+- Always go opposite lane to them. If they switch to your lane, you also need to be switching lanes. This is one of the matchups where you want to switch lanes consistently, just to force out their EQ in the lane they don't need damage in. 
+- Don't go offensive until they waste a Knight or a Hog. If they waste Hog + EQ in x1, you can almost guarantee a lock. Otherwise, do not expect one.
+- Protect your high Teslas consistently. If you don't, they will destroy them, and you won't have any ways of defending the Hog. The easiest way to do this is with a Knight. Sometimes, you also need to Skeles / Log a Hog if it will go to your tower after the Tesla dies.
+- Fireball is the most efficient card to cycle in several scenarios.
+- This is one of the matchups where even one mistake means you will almost definitely lose, assuming the opponent doesn't make more. Therefore, if you aren't willing to commit everything to learning the matchup, it is not worth thinking about, since it is an unwinnable matchup at the top level anyways.
