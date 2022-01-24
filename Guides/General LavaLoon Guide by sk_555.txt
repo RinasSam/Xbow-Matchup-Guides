@@ -1,0 +1,12 @@
+1. If you don't know what Lava variant the opponent has, don't go super aggressive as if you know the exact deck. Some plays will work against certain decks but not others, so in my experience, it's best to just play safely until you know the version. Inferno Dragon can be a really problematic card, and if you're forced to overcommit against it early on, you might lose. This is mostly talking about aggressive Xbow pushes and aggressively supporting your Xbow pushes, mainly in single elixir.
+
+2. Don't over-defend your Xbows if they have a big threat coming up. My friend Prestige taught me this; you want to deal with the cards that pose the biggest theat, and you want to defend their pushes by maximizing the value from your cards. This usually means waiting until your Xbow dies to defend against the support cards on your pushes, as opposed to trying to defend everything at the bridge (like going Xbow + Tesla at the bridge compared to going Xbow and then a lower Tesla).
+
+3. Learn the king tower activation against a Balloon. Use it sparingly, but there are some situations where it is a great play, the main one that comes to mind being: they go Lava first play, Loon behind, Miner on tower and they use Arrows on your Archers. I have a video showcasing this, I will link it at the end.
+
+4. Try to take out support cards in a big push first. For example, in a LavaLoon push, the Balloon is the bigger threat, the Lavahound is just tanking for it. 
+
+5. If you have a bad cycle when they Lavahound (for example, Lava first play), Knight opposite lane can be really good to force out elixir and split their push up. If they don't repsond, it's a ton of damage for only 3 elixir anyways.
+
+Old video and I didn't play perfectly, but some placements / principles still apply: https://youtu.be/sRVlEim9QOE
+(Main takeaways: Balloon King Tower Activation, Knight opposite lane to pressure)
